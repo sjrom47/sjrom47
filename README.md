@@ -1,4 +1,9 @@
-## Hi there 👋
+## Sergio Jiménez Romero
+**Maths engineering and AI student**
+
+### 📫 202201520@alu.comillas.edu
+
+### 🧰 Tools and languages:
 
 <!--
 **sjrom47/sjrom47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
