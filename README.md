@@ -1,5 +1,5 @@
 ## Sergio Jiménez Romero
-**Maths engineering and AI student**
+#### **`Maths engineering and AI student`**
 
 ##### 📫 [202201520@alu.comillas.edu](mailto:202201520@alu.comillas.edu)
 ---
