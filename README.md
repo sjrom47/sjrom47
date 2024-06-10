@@ -19,6 +19,7 @@
 <br />
 
 #
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjrom47&count_private=true&show_icons=true&theme=merko)
 <!--
 **sjrom47/sjrom47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
