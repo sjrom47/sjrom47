@@ -1,7 +1,7 @@
 ## Sergio Jiménez Romero
-#### **`Maths engineering and AI student`**
+### **`Maths engineering and AI student`**
 
-##### 📫 [202201520@alu.comillas.edu](mailto:202201520@alu.comillas.edu)
+#### 📫 [202201520@alu.comillas.edu](mailto:202201520@alu.comillas.edu)
 ---
 ### 🧰 Tools and languages:
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
