@@ -23,7 +23,8 @@
 <br />
 
 #
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjrom47&theme=gruvbox)<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjrom47)](https://github.com/sjrom47/github-readme-stats) -->
+![Followers](https://img.shields.io/github/followers/sjrom47?style=social)
+![Stars](https://img.shields.io/github/stars/sjrom47?style=social)<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjrom47)](https://github.com/sjrom47/github-readme-stats) -->
 
 
 
