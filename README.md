@@ -22,9 +22,8 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
-![Followers](https://img.shields.io/github/followers/sjrom47?style=social)
-![Stars](https://img.shields.io/github/stars/sjrom47?style=social)<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjrom47)](https://github.com/sjrom47/github-readme-stats) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=sjrom47&theme=gruvbox)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjrom47)](https://github.com/sjrom47/github-readme-stats) -->
 
 
 
