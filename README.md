@@ -22,7 +22,9 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sjrom47&theme=gruvbox)
+---
+![Visitors](https://komarev.com/ghpvc/?username=sjrom47)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sjrom47&theme=gruvbox)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjrom47)](https://github.com/sjrom47/github-readme-stats) -->
 
 
