@@ -23,8 +23,7 @@
 <br />
 
 ---
-![Visitors](https://komarev.com/ghpvc/?username=sjrom47)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sjrom47&theme=gruvbox)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjrom47&theme=gruvbox)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjrom47)](https://github.com/sjrom47/github-readme-stats) -->
 
 
